@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.svn-base
+*.htm
+Release/5point.obj
+*.user
+Debug/poly3.obj
+*.idb
+Release/poly3.obj
+*.pdb
+Release/poly1.obj
+*.obj
+5point.vcproj
+.svn/entries
+*.db
+.svn/format
+Makefile
