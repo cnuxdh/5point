@@ -60,3 +60,4 @@ Release/poly1.obj
 *.db
 .svn/format
 Makefile
+*.tlog
