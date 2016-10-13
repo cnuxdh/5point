@@ -61,3 +61,6 @@ Release/poly1.obj
 .svn/format
 Makefile
 *.tlog
+*.filters
+Debug/5point.lastbuildstate
+*.log
