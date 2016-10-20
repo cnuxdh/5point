@@ -64,3 +64,4 @@ Makefile
 *.filters
 Debug/5point.lastbuildstate
 *.log
+Debug/5point.vcxprojResolveAssemblyReference.cache
